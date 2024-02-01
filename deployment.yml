@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: amazon-container
-        image: aget2101/amazon:
+        image: aget2101/amazon:9
         ports:
         - containerPort: 3000
         
